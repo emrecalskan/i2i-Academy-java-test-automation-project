@@ -1,0 +1,6 @@
+{
+    "status": "success",
+    "message": "Nginx dummy API is working",
+    "service": "performance-test",
+    "version": 1
+}
